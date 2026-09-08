@@ -10,7 +10,7 @@ An end-to-end movie ticket reservation system designed to handle real-time seat 
 - [x] **Week 3:** Core Engine Development & Roadmap
 - [x] **Week 4:** Testing Strategy, QA & Concurrency Verification
 - [x] **Week 5:** Code Review, Refactoring & Debugging
-- [ ] **Week 6:** Final Deployment & Wrap-Up *(In Progress)*
+- [ ] **Week 6:** Final Project Evaluation, Retrospective, and Future Roadmap *(In Progress)*
 
 ---
 
